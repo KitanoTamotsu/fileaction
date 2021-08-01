@@ -2,6 +2,9 @@
 #### 開発メモ
 
 [サンプル動画](https://user-images.githubusercontent.com/40127279/126054996-3003dc96-eb11-4521-a336-76e790c7b97c.mp4)
+ワークフロー
+<br><img width="600" src="https://user-images.githubusercontent.com/40127279/127757814-605572a6-cac6-4383-9583-11c8171a071f.png">
+
 
 ### 1.alfredのファイル操作を理解する
 　alfredバーから目的のファイルに辿り着く方法は2つあります
@@ -27,14 +30,14 @@
 <br>　設定方法です
 <br>　alfredの設定パネルでFileSearchのNavigationタブを開いて
 <br>　Shortcuts: □ Use ← and → for folder navigationのチェックボックスをオンにします
-<br>　
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/127757869-cca24a50-8ae2-4806-909e-292c8fa2e50a.png">
 <br>　これに伴ってファイルアクション表示（デフォルトで『→』）の変更が必要です
 <br>　alfredの設定パネルでActionsのGeneralタブを開いて
 <br>　Show Actions: □→ □fn □cntl □⇥ to action selected itemのチェックボックスをオンにすると
 <br>　そのキーでファイルアクションを表示できるようになります
 <br>　右矢印キー、ファンクションキー、コントロールキー、タブキーの4つが選べます
 <br>　複数を選択した場合、それぞれの単独キーで機能します
-<br>　　
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/127757878-d4a9212e-3230-4aba-8be6-7d1cb7876add.png">
 <br>　因みに私はファイルアクションの表示はcntlのチェックボックスをオンにしています
 <br>　なぜなら、alfredバーから『⌃』『/』で前回フォルダの表示ができるので、
 <br>　同じフォルダ内のファイルを操作する際に親和性があるからです
@@ -48,9 +51,10 @@
 <br>　trrigersとしてFileActionを配置します
 <br>　ファイル数やファイルタイプの設定が可能です
 <br>　ファイルタイプは開きたいファイルをドラッグ＆ドロップするだけの簡単設定です
-<br>　
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/127757891-d9925875-ef5d-45bb-93b8-4c6839c6ecf1.png">
 <br>　次にフローの後続としてActionsからOpenFileを選択して繋げます
 <br>　設定は簡単で、右のボックスにファイルを開くためのアプリをドラッグ＆ドロップするだけ
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/127757910-35d0bd8a-1b75-448e-82ad-2190e1468646.png">
 ### 4.さらなるカスタマイズ
   試してみるとファイルアクションの最下部に今回作成したアクションが表示されるのですが
 <br>　それそ選択するのが煩雑でした
