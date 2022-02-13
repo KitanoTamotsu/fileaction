@@ -1,4 +1,3 @@
-## 　　Lesson29.　Alfredのファイルアクションを使ってみる  
 #### 開発メモ
 
 [サンプル動画](https://user-images.githubusercontent.com/40127279/126054996-3003dc96-eb11-4521-a336-76e790c7b97c.mp4)
